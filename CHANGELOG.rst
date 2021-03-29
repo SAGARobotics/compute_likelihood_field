@@ -2,8 +2,8 @@
 Changelog for package likelihood_field
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2021-03-29)
+------------------
 * update package.xml
 * code formatting
 * 1st commit
